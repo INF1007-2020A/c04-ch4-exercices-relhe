@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-def is_even_len( chaine) -> bool:
+def is_even_len( chain%2==) -> bool:
        pass
 
 
